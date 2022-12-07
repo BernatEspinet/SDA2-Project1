@@ -1,0 +1,13 @@
+name: SDA2-env
+
+dependencies:
+  - python=3.8
+  - anndata
+  - numpy
+  - torch
+  - scipy
+  - matplotlib
+  - pandas
+  - itertools
+  - sklearn
+  - IPython
